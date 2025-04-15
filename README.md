@@ -1,8 +1,7 @@
 # bhookmyshow
 Bookmyshow is India's largest entertainment ticket booking platform. Its a Service which allows users to buy tickets for movies, concerts, live events, sports, activities, and much more.
-
 Links
-Blog-Post :-
+Blog-Post :- 
 Screenshot's :- Click here
 🔗Open-Source Library
 Glide
@@ -19,7 +18,7 @@ Retrofit Library
 API
 Videoview
 Fragments
-Navigation
+
 Tech Stack ✨
 Android Studio
 Java
@@ -46,8 +45,7 @@ Press Enter. $ git clone BookMyShow Cloning into Git … remote: Counting object
 
 Congratulations, you have created your first local clone from your remote Github repository.
 
-Open Android Studio. Go to File > New > Project From Version Control. Copy the link of this repositary. Paste the link in Url Box of Android Studio window and click on "Clone" button.
-
+Open Android Studio. Go to File > New > Project From Version Control. Copy the link of this repositary. Paste the link in Url Box of Android Studio window and click on "Clone" button.Open Git Bash
 Dependencies
 //general dpendencies
 implementation 'androidx.appcompat:appcompat:1.3.1'
@@ -99,38 +97,3 @@ implementation 'com.borjabravo:readmoretextview:2.1.0'
 implementation 'de.hdodenhof:circleimageview:3.1.0'
 implementation 'com.jakewharton:butterknife:8.8.1'
 Lessons Learnt📚
-About
-Built clone of BookMyShow ticket booking app using Java
-
-Topics
-android ticket ticket-booking bookmyshow-clone
-Resources
- Readme
- Activity
-Stars
- 8 stars
-Watchers
- 2 watching
-Forks
- 4 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Contributors
-3
-@MuraliKrishnaSundara
-MuraliKrishnaSundara Murali Krishna
-@bhaveshppatil
-bhaveshppatil Bhavesh Patil
-@ReetaThakur
-ReetaThakur Reeta Thakur
-Languages
-Java
-100.0%
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-P
